@@ -1,6 +1,7 @@
 # redditIonicApp
 
 This is a simple social app based on the reddit API
+
 Features
 ________
 User can view the latest Post based on the category, like Sports,Music, Food,News etc..
@@ -9,7 +10,7 @@ It also provide the detailed view
 
 Key Technologies:
 _________________
-Angular2,IONIC Framework,HTML5, RESTful Web Services 
+Angular2,IONIC 2 Framework,HTML5, RESTful Web Services 
 Tools:
 _____
 VSCode,Git,PostMan,ARC,NPM
